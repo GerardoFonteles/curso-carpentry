@@ -1,0 +1,13 @@
+---
+title: "Relatorio"
+output: html_document
+---
+Isso aqui e um teste
+```{r}
+data <- read.csv("gapminder_data.csv")
+```
+
+
+```{r}
+head(data)
+```
