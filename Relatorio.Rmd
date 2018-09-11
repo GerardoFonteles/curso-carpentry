@@ -4,10 +4,10 @@ output: html_document
 ---
 Isso aqui e um teste
 ```{r}
-data <- read.csv("gapminder_data.csv")
+data <- read.csv("C:\Users\felip\Desktop\projeto\data\gapminder_data.csv")
 ```
 
 
 ```{r}
-head(data)
+head(data,20)
 ```
